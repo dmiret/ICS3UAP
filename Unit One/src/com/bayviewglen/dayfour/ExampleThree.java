@@ -26,6 +26,7 @@ public class ExampleThree {
 		
 		int x = 3/0;
 		
+		System.out.println(x);
 		
 	}
 
