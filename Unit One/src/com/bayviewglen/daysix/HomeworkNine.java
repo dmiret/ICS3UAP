@@ -16,7 +16,7 @@ public class HomeworkNine {
 		
 		System.out.println("$"+totalpay);
 		
-		
+		keyboard.close();
 	}
 
 }

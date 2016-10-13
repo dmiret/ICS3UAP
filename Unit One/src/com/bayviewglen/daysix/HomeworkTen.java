@@ -1,6 +1,5 @@
 package com.bayviewglen.daysix;
 
-import java.io.InputStream;
 import java.util.Scanner;
 
 public class HomeworkTen {
@@ -23,7 +22,8 @@ public class HomeworkTen {
 		
 		System.out.println("The area of the Rectangle is "+area);
 		System.out.println("The perimeter of the rectangle is "+perimeter);
-
+		
+		Keyboard.close();
 	}
 
 }

@@ -20,6 +20,7 @@ public class HomeworkEleven {
 		
 		System.out.println("The kinectic Energy of the object at that speed is "+ kinecticenergy);
 
+		keyboard.close();
 	}
 
 }
